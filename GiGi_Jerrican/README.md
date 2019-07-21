@@ -1,6 +1,6 @@
 # GiGi_Jerrycan
 
-SScript que adiciona pontos de compra de jerry can.
+Script que adiciona pontos de compra de jerry can.
 Varios Pontos ja adicionados. 
 Todos eles em bombas de gasolina.
 Para as notificacoes funcionarem correctamente tem de ter o mythic_notify.
